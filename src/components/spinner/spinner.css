@@ -1,0 +1,123 @@
+@keyframes ldio-kgzip4cmqrb {
+  0% {
+    transform: rotate(0)
+  }
+
+  100% {
+    transform: rotate(360deg)
+  }
+}
+
+.ldio-kgzip4cmqrb div {
+  box-sizing: border-box !important
+}
+
+.ldio-kgzip4cmqrb>div {
+  position: absolute;
+  width: 88px;
+  height: 88px;
+  top: 6px;
+  left: 6px;
+  border-radius: 50%;
+  border: 4px solid #000;
+  border-color: #3d7ec0 transparent #3d7ec0 transparent;
+  animation: ldio-kgzip4cmqrb 10s linear infinite;
+}
+
+.ldio-kgzip4cmqrb>div:nth-child(2),
+.ldio-kgzip4cmqrb>div:nth-child(4) {
+  width: 78px;
+  height: 78px;
+  top: 11px;
+  left: 11px;
+  animation: ldio-kgzip4cmqrb 10s linear infinite reverse;
+}
+
+.ldio-kgzip4cmqrb>div:nth-child(2) {
+  border-color: transparent #cc4545 transparent #cc4545
+}
+
+.ldio-kgzip4cmqrb>div:nth-child(3) {
+  border-color: transparent
+}
+
+.ldio-kgzip4cmqrb>div:nth-child(3) div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotate(45deg);
+}
+
+.ldio-kgzip4cmqrb>div:nth-child(3) div:before,
+.ldio-kgzip4cmqrb>div:nth-child(3) div:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: -4px;
+  left: 38px;
+  background: #3d7ec0;
+  border-radius: 50%;
+  box-shadow: 0 84px 0 0 #3d7ec0;
+}
+
+.ldio-kgzip4cmqrb>div:nth-child(3) div:after {
+  left: -4px;
+  top: 38px;
+  box-shadow: 84px 0 0 0 #3d7ec0;
+}
+
+.ldio-kgzip4cmqrb>div:nth-child(4) {
+  border-color: transparent;
+}
+
+.ldio-kgzip4cmqrb>div:nth-child(4) div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotate(45deg);
+}
+
+.ldio-kgzip4cmqrb>div:nth-child(4) div:before,
+.ldio-kgzip4cmqrb>div:nth-child(4) div:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: -4px;
+  left: 33px;
+  background: #cc4545;
+  border-radius: 50%;
+  box-shadow: 0 74px 0 0 #cc4545;
+}
+
+.ldio-kgzip4cmqrb>div:nth-child(4) div:after {
+  left: -4px;
+  top: 33px;
+  box-shadow: 74px 0 0 0 #cc4545;
+}
+
+.loadingio-spinner-double-ring-f9dm78ta2fh {
+  width: 74px;
+  height: 74px;
+  display: inline-block;
+  overflow: hidden;
+  background: none;
+}
+
+.ldio-kgzip4cmqrb {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform: translateZ(0) scale(0.74);
+  backface-visibility: hidden;
+  transform-origin: 0 0;
+  /* see note above */
+}
+
+.ldio-kgzip4cmqrb div {
+  box-sizing: content-box;
+}
+
